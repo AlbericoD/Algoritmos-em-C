@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{214D182F-9B79-455C-8A7C-06EEEA0883D5}</ProjectGuid>
-    <RootNamespace>ExercicioFamDois</RootNamespace>
+    <ProjectGuid>{CD29E9E4-F423-412C-9658-52ADDE5D13BB}</ProjectGuid>
+    <RootNamespace>ExercicioFamTres</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -112,7 +112,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Algoritimos_dois.c" />
+    <ClCompile Include="Algoritimo_tres.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

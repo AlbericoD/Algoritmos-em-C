@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Algoritimos_dois.c">
+    <ClCompile Include="Algoritimo_tres.c">
       <Filter>Arquivos de Recurso</Filter>
     </ClCompile>
   </ItemGroup>
