@@ -86,5 +86,50 @@ int main(int argc, char *argv[]) {
 	system("pause");
 	return 0;
 	*/
-
+	/*Elabore um programa que obtenha 3 notas de 3 alunos.
+	Depois o programa deve imprimir o nome dos três alunos,
+	com as suas respectiva médias. (não use nenhum
+	laço de programação).*/
+	float nota_um, nota_dois, nota_tres, n1, n2, n3;
+	char aluno_um[30], aluno_dois[30], aluno_tres[30];
+	int buffer = 29;
+	printf("\nSistema de notas\n\n");
+	printf("\nEntre com o primeiro nome do aluno\n");
+	fgets(aluno_um, buffer, stdin);
+	printf("\nQual foi a primeira nota de %s\n", aluno_um);
+	scanf("%f%*c", &n1);
+	printf("\nQual foi a segunda nota de %s\n", aluno_um);
+	scanf("%f%*c", &n2);
+	printf("\nQual foi a terceira nota de %s\n", aluno_um);
+	scanf("%f%*c", &n3);
+	nota_um = (n1 + n2 + n3) / 3;
+	system("cls");
+	printf("\nSistema de notas\n\n");
+	printf("\nEntre com o segundo nome do aluno\n");
+	fgets(aluno_dois, buffer, stdin);
+	printf("\nQual foi a primeira nota de %s\n", aluno_dois);
+	scanf("%f%*c", &n1);
+	printf("\nQual foi a segunda nota de %s\n", aluno_dois);
+	scanf("%f%*c", &n2);
+	printf("\nQual foi a terceira nota de %s\n", aluno_dois);
+	scanf("%f%*c", &n3);
+	nota_dois = (n1 + n2 + n3) / 3;
+	system("cls");
+	printf("\nSistema de notas\n\n");
+	printf("\nEntre com o terceiro nome do aluno\n");
+	fgets(aluno_tres, buffer, stdin);
+	printf("\nQual foi a primeira nota de %s\n", aluno_tres);
+	scanf("%f%*c", &n1);
+	printf("\nQual foi a segunda nota de %s\n", aluno_tres);
+	scanf("%f%*c", &n2);
+	printf("\nQual foi a terceira nota de %s\n", aluno_tres);
+	scanf("%f%*c", &n3);
+	nota_tres = (n1 + n2 + n3) / 3;
+	system("cls");
+	printf("\nResultado Geral:\n\n");
+	printf("\nAluno: %s \nNota media:%.0f\n", aluno_um, nota_um);
+	printf("\nAluno: %s \nNota media:%.0f\n", aluno_dois, nota_dois);
+	printf("\nAluno: %s \nNota media:%.0f\n\n\n", aluno_tres, nota_tres);
+	system("pause");
+	return 0;
 }
