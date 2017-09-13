@@ -92,7 +92,7 @@ int main(int argc, char *argv[]) {
 		system("cls");
 		printf("\nEscolha um carro, cada carro tem o consumo diferente:\n");
 		printf("\nA) Gol quadrado - 8km/litro \nB) Parati quadrada - 9km/litro \nC) Passat quadrado - 12km/litro\nD) Sair \n\n\n ");
-		scanf("%c", &carro);
+		scanf("%c%*c", &carro);
 		carro_tratado = toupper(carro);
 		switch (carro_tratado)
 		{
