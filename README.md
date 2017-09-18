@@ -17,6 +17,7 @@
 | Exercício 2 | [https://github.com/AlbericoD/Exercicios-resolvidos-em-C/tree/master/ExercicioFamDois]  |
 | Exercício 3 | [https://github.com/AlbericoD/Exercicios-resolvidos-em-C/tree/master/ExercicioFamTres]  |
 | Exercício 4 | [https://github.com/AlbericoD/Exercicios-resolvidos-em-C/tree/master/ExercicioFamQuatro]  |
+| Exercício 5 | [https://github.com/AlbericoD/Exercicios-resolvidos-em-C/tree/master/ExercicioFamCinco]  |
 | Cod. Conduta    | [https://github.com/AlbericoD/Exercicios-resolvidos-em-C/blob/master/CODE_OF_CONDUCT.md] |
 | Licença | [https://github.com/AlbericoD/Exercicios-resolvidos-em-C/blob/master/LICENSE] |
 
