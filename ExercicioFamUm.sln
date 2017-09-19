@@ -11,6 +11,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExercicioFamTres", "Exercic
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExercicioFamQuatro", "ExercicioFamQuatro\ExercicioFamQuatro.vcxproj", "{FA175B88-37A1-4715-96E3-5CD0C99334DB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KrisJamsaLarsKandler", "KrisJamsaLarsKandler", "{067EA5A0-7318-43B3-81EC-E4309717B1EB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExemplosTecnicas", "ExemplosTecnicas\ExemplosTecnicas.vcxproj", "{F78C7A1E-3A58-49E1-8C0C-209A0D3F5EA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,9 +55,20 @@ Global
 		{FA175B88-37A1-4715-96E3-5CD0C99334DB}.Release|x64.Build.0 = Release|x64
 		{FA175B88-37A1-4715-96E3-5CD0C99334DB}.Release|x86.ActiveCfg = Release|Win32
 		{FA175B88-37A1-4715-96E3-5CD0C99334DB}.Release|x86.Build.0 = Release|Win32
+		{F78C7A1E-3A58-49E1-8C0C-209A0D3F5EA6}.Debug|x64.ActiveCfg = Debug|x64
+		{F78C7A1E-3A58-49E1-8C0C-209A0D3F5EA6}.Debug|x64.Build.0 = Debug|x64
+		{F78C7A1E-3A58-49E1-8C0C-209A0D3F5EA6}.Debug|x86.ActiveCfg = Debug|Win32
+		{F78C7A1E-3A58-49E1-8C0C-209A0D3F5EA6}.Debug|x86.Build.0 = Debug|Win32
+		{F78C7A1E-3A58-49E1-8C0C-209A0D3F5EA6}.Release|x64.ActiveCfg = Release|x64
+		{F78C7A1E-3A58-49E1-8C0C-209A0D3F5EA6}.Release|x64.Build.0 = Release|x64
+		{F78C7A1E-3A58-49E1-8C0C-209A0D3F5EA6}.Release|x86.ActiveCfg = Release|Win32
+		{F78C7A1E-3A58-49E1-8C0C-209A0D3F5EA6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F78C7A1E-3A58-49E1-8C0C-209A0D3F5EA6} = {067EA5A0-7318-43B3-81EC-E4309717B1EB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AB5F49F2-01D3-455F-9D88-DB752A4A846E}
