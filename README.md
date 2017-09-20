@@ -24,7 +24,7 @@
 | Licença | [https://github.com/AlbericoD/Exercicios-resolvidos-em-C/blob/master/LICENSE] |
 | ------ | ------ |
 
-* Guia rápido pessoal
+* Guia rápido 
 >Pequenos exemplos para usos do dia a dia.
 
 | Projeto | Link para os arquivos |
@@ -32,6 +32,13 @@
 | Técnicas 1 | [https://github.com/AlbericoD/Exercicios-resolvidos-em-C/tree/master/ExemplosTecnicas]  |
 | ------ | ------ |
 
+* Atividades Diversas 
+>Jogos de console, menus e etc.
+
+| Projeto | Link para os arquivos |
+| ------ | ------ |
+| Atividade 1 | [************************************************************************************]  |
+| ------ | ------ |
 
 * GNU GENERAL PUBLIC LICENSE
 >Version 3, 29 June 2007
