@@ -37,7 +37,7 @@
 
 | Projeto | Link para os arquivos |
 | ------ | ------ |
-| Atividade 1 | [************************************************************************************]  |
+| Adivinhação números | [https://github.com/AlbericoD/Exercicios-resolvidos-em-C/tree/master/AtividadesUmDiversos]  |
 | ------ | ------ |
 
 * GNU GENERAL PUBLIC LICENSE
