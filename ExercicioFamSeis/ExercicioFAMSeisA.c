@@ -21,7 +21,7 @@ int main(int argc, char *argv[]) {
 
 		if (contador == PROVAS_P1)
 		{
-			calc_p1 = (valor_temp_geral * 0.7) / PROVAS_P1;
+			calc_p1 = (valor_temp_geral / PROVAS_P1) * 0.7;
 			printf("\nParab\x82ns, Voc\x88 conseguiu %.2f pontos na p1 para a nota final\n\n", calc_p1);
 			calculo_geral = valor_temp_geral = 0;
 		}
@@ -35,7 +35,7 @@ int main(int argc, char *argv[]) {
 
 		if (contador == ATIVIDADES_P2)
 		{
-			calc_p2 = (valor_temp_geral * 0.2) / ATIVIDADES_P2;
+			calc_p2 = (valor_temp_geral / ATIVIDADES_P2) * 0.2 ;
 			printf("\nParab\x82ns, Voc\x88 conseguiu %.2f pontos na p2 para a nota final\n\n", calc_p2);
 			calculo_geral = valor_temp_geral = 0;
 		}
