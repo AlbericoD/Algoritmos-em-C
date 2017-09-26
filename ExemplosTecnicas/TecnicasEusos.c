@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <stdlib.h>
 int main() {
 
 	/*Sintese de exemplos para estudos*/
@@ -31,7 +31,11 @@ int main() {
 	/*Tipos customizados*/
 	typedef unsigned long int ULINT;
 	ULINT minhavariavel;
-
+	/*Casting, cuidar para não perder a precisão*/
+	int a,b = 3;
+	double pontos = a /(double)b;
+	/*valor absoluto*/
+	abs(b);
 
 	getchar();
 	return 0;
