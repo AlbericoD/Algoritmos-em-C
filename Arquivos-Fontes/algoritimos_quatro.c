@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 int main(int argc, char *argv[]) {
-	/*Elabore um programa que pede seu nome, endereço, CEP e
+	/*Elabore um programa que pede seu nome, endereï¿½o, CEP e
 	telefone. Ele deve imprirmir seu nome completo na primeira
-	linha, seu endereço na segunda, e o CEP e telefone na
+	linha, seu endereï¿½o na segunda, e o CEP e telefone na
 	terceira
 
 	char nome[30], endereco[80];
@@ -28,11 +28,11 @@ int main(int argc, char *argv[]) {
 	system("pause");
 	return 0;
 	*/
-	/*Elabore um programa onde peça para inserir 5 nomes e
+	/*Elabore um programa onde peï¿½a para inserir 5 nomes e
 	suas respectivas idades. Calcule a idade em dias e horas de
 	cada nome e depois imprima em tela os 5 nomes com as
-	respectivas idades em anos, dias e horas. (não use nenhum
-	laço de programação).
+	respectivas idades em anos, dias e horas. (nï¿½o use nenhum
+	laï¿½o de programaï¿½ï¿½o).
 	char nome_zero[30], nome_um[30], nome_dois[30], nome_tres[30], nome_quatro[30];
 	float idade_zero, idade_um, idade_dois, idade_tres, idade_quatro,
 		dias_zero, dias_um, dias_dois, dias_tres, dias_quatro,
@@ -87,9 +87,9 @@ int main(int argc, char *argv[]) {
 	return 0;
 	*/
 	/*Elabore um programa que obtenha 3 notas de 3 alunos.
-	Depois o programa deve imprimir o nome dos três alunos,
-	com as suas respectiva médias. (não use nenhum
-	laço de programação).*/
+	Depois o programa deve imprimir o nome dos trï¿½s alunos,
+	com as suas respectiva mï¿½dias. (nï¿½o use nenhum
+	laï¿½o de programaï¿½ï¿½o).*/
 	float nota_um, nota_dois, nota_tres, n1, n2, n3;
 	char aluno_um[30], aluno_dois[30], aluno_tres[30];
 	int buffer = 29;

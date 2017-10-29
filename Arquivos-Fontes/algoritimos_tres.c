@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(int argc, char *argv[]) {
-	/*Elabore um programa que pede seu nome, endereço, CEP e
+int main(int argc, char *argv[]){
+    /*Elabore um programa que pede seu nome, endereï¿½o, CEP e
 	telefone. Ele deve imprirmir seu nome completo na primeira
-	linha, seu endereço na segunda, e o CEP e telefone na
+	linha, seu endereï¿½o na segunda, e o CEP e telefone na
 	terceira
 	*/
 	char primeiro_nome[15], segundo_nome[25], endereco[80];

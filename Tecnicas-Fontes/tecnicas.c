@@ -19,7 +19,7 @@ int main() {
 	short int valor_chave;
 	short int numero_pequeno;
 
-	/*Omitindo int das declarações modificadas*/
+	/*Omitindo int das declaraï¿½ï¿½es modificadas*/
 	unsigned omitido;
 	short omitimo_pequeno;
 	long omitido_grande;
@@ -31,7 +31,7 @@ int main() {
 	/*Tipos customizados*/
 	typedef unsigned long int ULINT;
 	ULINT minhavariavel;
-	/*Casting, cuidar para não perder a precisão*/
+	/*Casting, cuidar para nï¿½o perder a precisï¿½o*/
 	int a,b = 3;
 	double pontos = a /(double)b;
 	/*valor absoluto*/

@@ -45,7 +45,7 @@ int main(int argc, char *argv[]) {
 	scanf("%f*c", &calculo_geral);
 	calc_p3 += calculo_geral * 0.1;
 
-	/*Calculos média final e condição para aprovação, difinida na constante (MEDIA_GERAL)*/
+	/*Calculos mï¿½dia final e condiï¿½ï¿½o para aprovaï¿½ï¿½o, difinida na constante (MEDIA_GERAL)*/
 	valor_temp_geral = calc_p1 + calc_p2 + calc_p3;
 	aprovado = valor_temp_geral > MEDIA_GERAL;
 

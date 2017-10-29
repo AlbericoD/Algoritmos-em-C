@@ -6,7 +6,7 @@ int main(int argc, char *argv[]) {
 
 	/*Ler 2 valores e somar os dois. Caso a soma seja maior que 10, mostrar a soma.
 	No programa anterior, implementar que seja impresso a soma quando o resultado for
-	menor do que 10 e também imprimir a seguinte mensagem: Soma inferior a 10.
+	menor do que 10 e tambï¿½m imprimir a seguinte mensagem: Soma inferior a 10.
 
 
 	float num_um, num_dois, num_resultado;
@@ -26,9 +26,9 @@ int main(int argc, char *argv[]) {
 	system("pause");
 	return 0;*/
 
-	/*. Entrar com um número e imprimir a raiz quadrada do número. Caso ele seja positivo.
-	E o quadrado dele caso seja negativo. (pesquisar na WEB as funções de raiz
-	quadrada e quadrado de um número – não esquecer da biblioteca).
+	/*. Entrar com um nï¿½mero e imprimir a raiz quadrada do nï¿½mero. Caso ele seja positivo.
+	E o quadrado dele caso seja negativo. (pesquisar na WEB as funï¿½ï¿½es de raiz
+	quadrada e quadrado de um nï¿½mero ï¿½ nï¿½o esquecer da biblioteca).
 
 	float num_x, num_y;
 	printf("\nEntre com um n\x83mero , vamos descobrir a raiz quadrada dele!\n");
@@ -44,9 +44,9 @@ int main(int argc, char *argv[]) {
 	}
 	system("pause");
 	return 0;*/
-	/*Ler um número inteiro e verificar se está compreendido entre 20 e 80. Se tiver,
-	imprimir “O número digitado esta entre 20 e 80”, senão imprimir “número fora do
-	intervalo”.
+	/*Ler um nï¿½mero inteiro e verificar se estï¿½ compreendido entre 20 e 80. Se tiver,
+	imprimir ï¿½O nï¿½mero digitado esta entre 20 e 80ï¿½, senï¿½o imprimir ï¿½nï¿½mero fora do
+	intervaloï¿½.
 	int num;
 	printf("\nEntre com um valor, para saber se est\xA0 dentro do intervalo 20 e 80\n ");
 	scanf("%d%*c", &num);
@@ -62,7 +62,7 @@ int main(int argc, char *argv[]) {
 	system("pause");
 	return 0;*/
 
-	/*Ler um número e imprimir igual a 20, menor que 20, maior que 20.
+	/*Ler um nï¿½mero e imprimir igual a 20, menor que 20, maior que 20.
 	int num;
 	printf("\nEntre com um n\xA3mero: \n");
 	scanf("%d%*c", &num);

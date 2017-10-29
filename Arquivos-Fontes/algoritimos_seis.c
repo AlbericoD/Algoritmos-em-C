@@ -4,7 +4,7 @@
 
 int main(int argc, char *argv[]) {
 
-	/*• Apresentar os quadrados dos números inteiros de 15 a 200
+	/*ï¿½ Apresentar os quadrados dos nï¿½meros inteiros de 15 a 200
 	int conver_resto;
 	float num_raiz, num = 15, resto;
 	printf("Quadrados dos n\xA3meros inteiros de 15 a 200\n");
@@ -18,13 +18,13 @@ int main(int argc, char *argv[]) {
 			printf("\nO quadrado de %.f \x82 %.f \n", num, num_raiz);
 			num++;
 		}
-		//o quadrado não é perfeito
+		//o quadrado nï¿½o ï¿½ perfeito
 		num++;
 	}
 	getchar();*/
 
-	/*• Apresentar o total da soma obtida dos cem primeiros
-números inteiros;
+	/*ï¿½ Apresentar o total da soma obtida dos cem primeiros
+nï¿½meros inteiros;
 
 	int num, num_resultado = 0;
 	for (num = 0; num <= 100; num++)
@@ -37,8 +37,8 @@ números inteiros;
 	}
 	getchar();*/
 
-	/*• Faça um programa que leia uma determinada quantidade de
-dados informada pelo usuário e depois calcule a sua média;
+	/*ï¿½ Faï¿½a um programa que leia uma determinada quantidade de
+dados informada pelo usuï¿½rio e depois calcule a sua mï¿½dia;
 
 	float num, num_acumulado = 0, num_resultado;
 	int contador = 0;
@@ -61,8 +61,8 @@ dados informada pelo usuário e depois calcule a sua média;
 	system("pause");
 	return 0;*/
 
-	/*• Faça um programa que coloque os números de 1 a 100 na
-tela na ordem inversa (começando em 100 e terminando em
+	/*ï¿½ Faï¿½a um programa que coloque os nï¿½meros de 1 a 100 na
+tela na ordem inversa (comeï¿½ando em 100 e terminando em
 1);
 	int num;
 	for (num = 100; num >= 0; num--)
@@ -72,9 +72,9 @@ tela na ordem inversa (começando em 100 e terminando em
 	getchar();
 	*/
 
-	/*• Faça um programa que pergunte ao usuário quantos
-números deseja somar. Em seguida, leia a quantidade
-informada de números e apresentar o valor da soma;*/
+	/*ï¿½ Faï¿½a um programa que pergunte ao usuï¿½rio quantos
+nï¿½meros deseja somar. Em seguida, leia a quantidade
+informada de nï¿½meros e apresentar o valor da soma;*/
 	int quantidade = 1;
 	float num, num_acumulado = 0;
 	printf("\nQuantos n\xA3meros deseja somar?\n");
